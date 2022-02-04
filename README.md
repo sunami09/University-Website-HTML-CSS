@@ -7,4 +7,4 @@
      start index.html 
      
 ```
-The project is under development. Any contribution is appreciated.
+The project is under development. Any contribution is appreciated. V1.2.1
