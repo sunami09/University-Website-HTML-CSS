@@ -3,7 +3,7 @@
 # How To run it in your local storage
 ```
      git clone https://github.com/sunami09/University-Website-HTML-CSS-.git
-     cd University-Website-HTML-CSS
+     cd University-Website-HTML-CSS-
      start index.html 
      
 ```
